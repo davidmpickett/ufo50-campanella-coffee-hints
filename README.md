@@ -1,6 +1,7 @@
 # UFO 50 Mod - Campanella Coffee Hints
 - Reveals the coffee trigger locations with a cute coffee sprite. 
-- Compatible with UFO 50 v1.7.2.1
+- Compatible with UFO 50 v1.7.2.2
+- Running a previous version of UFO 50? Check [the archive](/archive)
 
 ![The Campanella near a coffee trigger](/images/coffee_hint.jpg)
 
