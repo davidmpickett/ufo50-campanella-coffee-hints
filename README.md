@@ -13,3 +13,9 @@ Note: Installing untrusted mods is risky. Install at your own risk.
 4. You should make a copy of your `data.win` before installing the mod
 5. Run Delta Patcher, select `data.win` as the Original file and the `.xdelta` file as the Patch and click Apply patch.
 
+## Screenshots
+
+![](/images/world_a_example.jpg)
+![](/images/world_b_example.jpg)
+![](/images/world_c_example.jpg)
+![](/images/world_d_example.jpg)
